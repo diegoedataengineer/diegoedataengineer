@@ -122,6 +122,16 @@ Minha atuação combina **Data Engineering, Generative AI e Agentic AI** — des
 
 ### Projetos em destaque
 
+**[sistematizacao-visao-computacional](https://github.com/diegoedataengineer/sistematizacao-visao-computacional)** — Detecção e segmentação de instâncias de buracos em vias urbanas com YOLO11, para priorizar manutenção viária a partir de imagens de veículos em circulação. Compara cinco configurações (n, s, m, 800 px e seg), refina 55% das máscaras do dataset com SAM, escolhe o limiar em validação e avalia o teste uma única vez. Em vídeo real, o segmentador roda com ByteTrack a ≈ 50 FPS numa GTX 1060, contando buracos únicos por trecho. Pesos publicados em release e relatório completo em PDF. [Vídeo-pitch](https://www.youtube.com/watch?v=zWGPLGHbiTE).
+
+![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ultralytics](https://img.shields.io/badge/YOLO11%20%2F%20Ultralytics-111F68?style=flat-square&logoColor=white)
+![torch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![opencv](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![sam](https://img.shields.io/badge/SAM%20%28Transformers%29-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![bytetrack](https://img.shields.io/badge/ByteTrack-0F766E?style=flat-square&logoColor=white)
+![roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)
+
 **[fraud-triage](https://github.com/diegoedataengineer/fraud-triage)** — Triagem de fraude em transações de cartão de crédito. Em vez do classificador binário usual, o modelo alimenta uma política de três faixas — aprovar, revisar, bloquear — sujeita à capacidade real de revisão manual e construída sobre probabilidades explicitamente calibradas. Traz a esteira completa: treino, versionamento, API, console de operação e monitoramento, tudo em pé com um `docker compose up`.
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
