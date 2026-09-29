@@ -3,6 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-Diego%20Nunes%20de%20Morais-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-nunes-de-morais-a74383a1/)
 [![Website](https://img.shields.io/badge/-diegonmorais.com-00D4E8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.diegonmorais.com)
 [![GitHub](https://img.shields.io/badge/-diegoedataengineer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegoedataengineer)
+[![Hugging Face](https://img.shields.io/badge/-diegoiaengineer-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/diegoiaengineer)
 [![Localização](https://img.shields.io/badge/-Brasília,%20DF-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 Bem-vindo ao meu perfil!
